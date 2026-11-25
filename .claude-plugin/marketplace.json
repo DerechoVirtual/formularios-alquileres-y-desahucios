@@ -1,0 +1,29 @@
+{
+  "name": "formularios-alquileres-y-desahucios",
+  "owner": {
+    "name": "Derecho Virtual",
+    "url": "https://jurisprudenciator.lexiaipro.org"
+  },
+  "metadata": {
+    "description": "Alquileres y desahucios · España (219 formularios). Para los arrendamientos urbanos y rústicos: contratos de vivienda y de local, cesión y subarriendo, actualización de renta, obras, fianza, requerimientos y burofaxes, desahucio por impago, por expiración del plazo y por precario, y reclamación de rentas. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+    "version": "1.1.0"
+  },
+  "plugins": [
+    {
+      "name": "formularios-alquileres-y-desahucios",
+      "source": "./",
+      "description": "Alquileres y desahucios · España (219 formularios). Para los arrendamientos urbanos y rústicos: contratos de vivienda y de local, cesión y subarriendo, actualización de renta, obras, fianza, requerimientos y burofaxes, desahucio por impago, por expiración del plazo y por precario, y reclamación de rentas. Requiere Jurisprudenciator conectado: sin él las skills no redactan ni verifican nada.",
+      "version": "1.1.0",
+      "category": "legal",
+      "keywords": [
+        "jurisprudenciator",
+        "legal",
+        "españa",
+        "formularios",
+        "modelos",
+        "civil",
+        "arrendamientos"
+      ]
+    }
+  ]
+}
